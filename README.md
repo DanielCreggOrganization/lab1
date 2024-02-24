@@ -10,7 +10,7 @@ A 2D array in Java is an array of arrays. It is also known as a matrix. Each ele
 
 ## Part 1: Declaration and Initialization
 
-### Demo
+### Demo 1
 
 Here is a simple example of how to declare and initialize a 2D array in Java.
 
@@ -28,13 +28,13 @@ int[][] matrix = {
 };
 ```
 
-### Exercise
+### Exercise 1
 
 1. Declare and initialize a 2D array with your own values.
 
 ## Part 2: Manipulation
 
-### Demo (Part 2)
+### Demo 2
 
 We can manipulate the elements of a 2D array just like a 1D array.
 
@@ -42,14 +42,13 @@ We can manipulate the elements of a 2D array just like a 1D array.
 matrix[0][0] = 10; // change the first element
 ```
 
+### Exercise 2
 
-### Exercise
-
-2. Change the value of the second element in the second row of your array.
+1. Change the value of the second element in the second row of your array.
 
 ## Part 3: Printing
 
-### Demo
+### Demo 3
 
 We can print a 2D array using nested for loops.
 
@@ -62,13 +61,13 @@ for (int i = 0; i < matrix.length; i++) {
 }
 ```
 
-### Exercise
+### Exercise 3
 
-3. Print your 2D array.
+1. Print your 2D array.
 
 ## Part 4: Advanced Manipulation
 
-### Demo
+### Demo 4
 
 We can also perform more complex operations on 2D arrays, like finding the sum of all elements.
 
@@ -82,9 +81,9 @@ for (int i = 0; i < matrix.length; i++) {
 System.out.println("Sum: " + sum);
 ```
 
-### Exercise
+### Exercise 4
 
-4. Write a method that takes a 2D array as a parameter and returns the sum of all elements in the array.
+1. Write a method that takes a 2D array as a parameter and returns the sum of all elements in the array.
 
 ## Conclusion
 
